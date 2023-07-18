@@ -1,10 +1,10 @@
 ![MasterHead](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)
 <h1 align="center">Hi 👋, I'm Vĩnh Phong</h1>
 <h3 align="center">I'm a passionate student at HCMUS</h3>
-<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
+<img align="right" alt="Coding" width="350" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phonghuynh0394&label=Profile%20views&color=0e75b6&style=flat" alt="phonghuynh0394" /> </p>
 
-- 🌱 I’m currently learning **Kafka, Deeplearning and DevOps**
+- 🌱 I’m currently learning **Kafka, Machine Learning**
 
 - 💬 Ask me about **Python, C++, machine learning**
 
