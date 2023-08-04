@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Python, C++, machine learning**
 
-- 📫 How to reach me **meooggi133@gmail.com or phonghuynh9403@gmail.com**. Visit my [Page](https://phonghuynh.netlify.app/)
+- 📫 How to reach me **meooggi133@gmail.com or phonghuynh9403@gmail.com**. Visit my [**Page**](https://phonghuynh.netlify.app/)
 
 - ⚡ Fun fact **I love learning and anime**
 
