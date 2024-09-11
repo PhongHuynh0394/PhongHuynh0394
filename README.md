@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello 👋, I'm Vĩnh Phong</h1>
 <h3 align="center">I'm a passionate student at HCMUS</h3>
-<img align="right" alt="Coding" width="350" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
+<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phonghuynh0394&label=Profile%20views&color=0e75b6&style=flat" alt="phonghuynh0394" /> </p>
 
 - 🌱 I’m currently learning **Kafka, Machine Learning**
